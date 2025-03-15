@@ -504,12 +504,12 @@ height:40px;
   background-color: #404bbf;
   border: none;
 }
-.windo-button {
+.windo-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
-.button-windo:hover > .windo-button {
+.button-windo:hover > .windo-icon {
   fill: #ffffff;
 }
-.button-windo:focus > .windo-button {
+.button-windo:focus > .windo-icon {
   fill: #ffffff;
 }
