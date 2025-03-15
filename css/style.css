@@ -549,6 +549,7 @@ height:40px;
 }
 .input-name:focus , .icon-input {
   border-color: #4D5AE5;
+  fill: #4D5AE5;
 }
 .icon-input {
   position: absolute;
