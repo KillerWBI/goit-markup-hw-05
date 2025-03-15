@@ -410,7 +410,9 @@ height:40px;
 .link-media-footera:focus {
   background-color: #31d0aa;
 }
-
+.input-list {
+  margin-left: 120px;
+}
 .subscribe {
   margin-bottom: 16px;
   font-weight: 500;
