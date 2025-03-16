@@ -15,6 +15,12 @@
     margin-block-start: 0;
     margin-block-end: 0;
   }
+  a {
+    display: block;
+  }
+  .div-order {
+    gap:20px;
+  }
   body {
     color: #434455;
     background-color:  #FFFFFF;
