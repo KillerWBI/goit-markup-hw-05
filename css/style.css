@@ -592,6 +592,7 @@ height:40px;
 }
 .checkbox-container {
   margin-bottom: 24px;
+  display: flex;
 }
 .privacy-lable {
   font-size: 12px;
