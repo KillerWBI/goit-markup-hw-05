@@ -604,6 +604,7 @@ height:40px;
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 .cheack-box:checked + .privacy-lable .span-privacy{
 background-color: #404bbf;
@@ -612,4 +613,5 @@ fill: #F4F4FD;
 }
 .privacy-link {
    color: #4d5ae5;
+
 }
