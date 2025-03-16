@@ -605,3 +605,11 @@ height:40px;
   justify-content: center;
   fill: transparent;
 }
+.cheack-box:checked + .privacy-lable .span-privacy{
+background-color: #404bbf;
+border: none;
+fill: #F4F4FD;
+}
+.privacy-link {
+   color: #4d5ae5;
+}
