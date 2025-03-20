@@ -22,7 +22,7 @@
     display: block;
   }
   .div-order {
-    gap:45px;
+    gap:47px;
   }
   .first-element-menu {
     color: #404bbf;
@@ -313,7 +313,7 @@ align-items: center;
   width: calc((100% - 72px) / 4);
 
 }
-.style-position::after {
+.first-element-menu::after  {
   content: "";
   width: 100%;
   position: absolute;
