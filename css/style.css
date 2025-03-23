@@ -523,7 +523,8 @@ height:40px;
   border: none;
 }
 .windo-icon {
-  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  fill: rgba(46, 47, 66, 1); 
 }
 .button-windo:hover > .windo-icon {
   fill: #ffffff;
