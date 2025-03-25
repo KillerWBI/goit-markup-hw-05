@@ -654,12 +654,12 @@ fill: #F4F4FD;
 .send:hover {
   background-color: rgba(64, 75, 191, 1);
 }
-.backdrop.is-open {
+.backdrop {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
 }
-.backdrop {
+.backdrop.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
